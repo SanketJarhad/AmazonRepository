@@ -49,7 +49,7 @@ public class Validate_SignIn {
 	void goToSignInPage() {
 		driver.get("https://www.amazon.in/");
 		homepage.signin();
-		
+		System.out.println("GIT OPERATONS");
 	
 		
 	}
