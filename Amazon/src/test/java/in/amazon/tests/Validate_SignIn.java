@@ -50,10 +50,7 @@ public class Validate_SignIn {
 		driver.get("https://www.amazon.in/");
 		homepage.signin();
 		
-		System.out.println("amazon code change");
-		System.out.println("amazon code change For PR");
-		
-		System.out.println("amazon code change For PR 2");
+	
 		
 	}
 	@Test
