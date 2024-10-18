@@ -51,6 +51,8 @@ public class Validate_SignIn {
 		homepage.signin();
 		
 		System.out.println("amazon code change");
+		System.out.println("amazon code change For PR");
+		
 	}
 	@Test
 	void verifySignIn() {
